@@ -1,0 +1,2002 @@
+[
+    {
+        "question": "What is question answering in NLP?",
+        "answer": "Question answering is the task of automatically answering questions posed in natural language."
+    },
+    {
+        "question": "What is a Natural Language Generation (NLG)?",
+        "answer": "Natural Language Generation (NLG) is a subtopic of natural language processing in artificial intelligence that generates natural language from a machine representation."
+    },
+    {
+        "question": "What is dependency parsing?",
+        "answer": "Dependency parsing is the task of analyzing the grammatical dependencies between words in a sentence."
+    },
+    {
+        "question": "What is TF-IDF?",
+        "answer": "TF-IDF (Term Frequency-Inverse Document Frequency) is a statistical measure used to evaluate the importance of a word in a document relative to a collection of documents."
+    },
+    {
+        "question": "What is a corpus in NLP?",
+        "answer": "A corpus is a large and structured set of texts used for linguistic analysis."
+    },
+    {
+        "question": "What is machine translation?",
+        "answer": "Machine translation is the task of automatically translating text from one language to another."
+    },
+    {
+        "question": "What is semantic analysis?",
+        "answer": "Semantic analysis is the process of understanding the meaning of words, phrases, and sentences in context."
+    },
+    {
+        "question": "What is n-gram?",
+        "answer": "An n-gram is a contiguous sequence of n items from a given sequence of text or speech."
+    },
+    {
+        "question": "What is a knowledge graph?",
+        "answer": "A knowledge graph is a graph-structured database that represents entities and their relationships."
+    },
+    {
+        "question": "What is a vector space model?",
+        "answer": "A vector space model is an algebraic model for representing text documents as vectors of identifiers."
+    },
+    {
+        "question": "What is BLEU score?",
+        "answer": "BLEU (Bilingual Evaluation Understudy) is an algorithm for evaluating the quality of machine-translated text."
+    },
+    {
+        "question": "What is a semantic network?",
+        "answer": "A semantic network is a graph representation of semantic relations between concepts."
+    },
+    {
+        "question": "What is a dialogue system?",
+        "answer": "A dialogue system is a computer system that engages in conversation with humans."
+    },
+    {
+        "question": "What is regular expression in NLP?",
+        "answer": "Regular expressions are sequences of characters that define a search pattern, used for string matching."
+    },
+    {
+        "question": "What is named entity recognition (NER)?",
+        "answer": "NER is the task of identifying and classifying named entities (e.g., people, organizations, locations) in a text."
+    },
+    {
+        "question": "What is a chatbot?",
+        "answer": "A chatbot is a computer program designed to simulate conversation with human users, especially over the internet."
+    },
+    {
+        "question": "What is GPT?",
+        "answer": "GPT (Generative Pre-trained Transformer) is a transformer-based model known for its text generation capabilities."
+    },
+    {
+        "question": "What is sentiment analysis?",
+        "answer": "Sentiment analysis is the process of determining the emotional tone or attitude expressed in a text (e.g., positive, negative, neutral)."
+    },
+    {
+        "question": "What is a knowledge graph?",
+        "answer": "A knowledge graph is a graph-structured database that represents entities and their relationships."
+    },
+    {
+        "question": "What is a language model evaluation?",
+        "answer": "Language model evaluation is the process of assessing the quality and performance of a language model."
+    },
+    {
+        "question": "What is GPT?",
+        "answer": "GPT (Generative Pre-trained Transformer) is a transformer-based model known for its text generation capabilities."
+    },
+    {
+        "question": "What is a corpus in NLP?",
+        "answer": "A corpus is a large and structured set of texts used for linguistic analysis."
+    },
+    {
+        "question": "What is TF-IDF?",
+        "answer": "TF-IDF (Term Frequency-Inverse Document Frequency) is a statistical measure used to evaluate the importance of a word in a document relative to a collection of documents."
+    },
+    {
+        "question": "What is GPT?",
+        "answer": "GPT (Generative Pre-trained Transformer) is a transformer-based model known for its text generation capabilities."
+    },
+    {
+        "question": "What is n-gram?",
+        "answer": "An n-gram is a contiguous sequence of n items from a given sequence of text or speech."
+    },
+    {
+        "question": "What is ROUGE score?",
+        "answer": "ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is a set of metrics used for evaluating automatic summarization and machine translation."
+    },
+    {
+        "question": "What is a distributional semantics?",
+        "answer": "Distributional semantics is the study of word meaning based on the distribution of words in large text corpora."
+    },
+    {
+        "question": "What is topic modeling?",
+        "answer": "Topic modeling is a statistical modeling technique for discovering the abstract 'topics' that occur in a collection of documents."
+    },
+    {
+        "question": "What is a paraphrase?",
+        "answer": "A paraphrase is a restatement of a text or passage in other words, often to simplify or clarify."
+    },
+    {
+        "question": "What is a knowledge graph?",
+        "answer": "A knowledge graph is a graph-structured database that represents entities and their relationships."
+    },
+    {
+        "question": "What is Natural Language Processing (NLP)?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is few-shot learning in NLP?",
+        "answer": "Few-shot learning is a technique that allows a model to learn new tasks with only a few examples."
+    },
+    {
+        "question": "What is zero-shot learning in NLP?",
+        "answer": "Zero-shot learning is a technique that enables a model to recognize classes it hasn't seen during training."
+    },
+    {
+        "question": "What is transfer learning in NLP?",
+        "answer": "Transfer learning is a technique where a model trained on one task is reused as a starting point for another task."
+    },
+    {
+        "question": "What is a knowledge graph?",
+        "answer": "A knowledge graph is a graph-structured database that represents entities and their relationships."
+    },
+    {
+        "question": "What is text generation?",
+        "answer": "Text generation is the process of automatically creating human-like text."
+    },
+    {
+        "question": "What is text summarization?",
+        "answer": "Text summarization is the process of creating a concise and accurate summary of a longer text."
+    },
+    {
+        "question": "What is a context window?",
+        "answer": "A context window is the range of words surrounding a target word that is considered when processing that word."
+    },
+    {
+        "question": "What is a language model evaluation?",
+        "answer": "Language model evaluation is the process of assessing the quality and performance of a language model."
+    },
+    {
+        "question": "What are word embeddings?",
+        "answer": "Word embeddings are vector representations of words that capture their semantic relationships."
+    },
+    {
+        "question": "What is a Natural Language Understanding (NLU)?",
+        "answer": "Natural Language Understanding (NLU) is a subtopic of natural language processing in artificial intelligence that deals with machine reading comprehension."
+    },
+    {
+        "question": "What is word sense disambiguation?",
+        "answer": "Word sense disambiguation is the process of identifying the correct meaning of a word in a given context."
+    },
+    {
+        "question": "What is question answering in NLP?",
+        "answer": "Question answering is the task of automatically answering questions posed in natural language."
+    },
+    {
+        "question": "What is n-gram?",
+        "answer": "An n-gram is a contiguous sequence of n items from a given sequence of text or speech."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is named entity recognition (NER)?",
+        "answer": "NER is the task of identifying and classifying named entities (e.g., people, organizations, locations) in a text."
+    },
+    {
+        "question": "What is n-gram?",
+        "answer": "An n-gram is a contiguous sequence of n items from a given sequence of text or speech."
+    },
+    {
+        "question": "What is zero-shot learning in NLP?",
+        "answer": "Zero-shot learning is a technique that enables a model to recognize classes it hasn't seen during training."
+    },
+    {
+        "question": "What is question answering in NLP?",
+        "answer": "Question answering is the task of automatically answering questions posed in natural language."
+    },
+    {
+        "question": "What is BERT?",
+        "answer": "BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model that has achieved state-of-the-art results in various NLP tasks."
+    },
+    {
+        "question": "What is TF-IDF?",
+        "answer": "TF-IDF (Term Frequency-Inverse Document Frequency) is a statistical measure used to evaluate the importance of a word in a document relative to a collection of documents."
+    },
+    {
+        "question": "What is a language model?",
+        "answer": "A language model is a statistical model that predicts the probability of a sequence of words."
+    },
+    {
+        "question": "What is a semantic network?",
+        "answer": "A semantic network is a graph representation of semantic relations between concepts."
+    },
+    {
+        "question": "What is a discourse analysis?",
+        "answer": "Discourse analysis is the study of language beyond the sentence level, focusing on how language is used in social contexts."
+    },
+    {
+        "question": "What is Natural Language Processing (NLP)?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is a context window?",
+        "answer": "A context window is the range of words surrounding a target word that is considered when processing that word."
+    },
+    {
+        "question": "What is stemming?",
+        "answer": "Stemming is the process of reducing words to their root or base form by removing suffixes."
+    },
+    {
+        "question": "What is GPT?",
+        "answer": "GPT (Generative Pre-trained Transformer) is a transformer-based model known for its text generation capabilities."
+    },
+    {
+        "question": "What is text generation?",
+        "answer": "Text generation is the process of automatically creating human-like text."
+    },
+    {
+        "question": "What is coreference resolution?",
+        "answer": "Coreference resolution is the task of identifying all expressions that refer to the same entity in a text."
+    },
+    {
+        "question": "What is text generation?",
+        "answer": "Text generation is the process of automatically creating human-like text."
+    },
+    {
+        "question": "What is a context window?",
+        "answer": "A context window is the range of words surrounding a target word that is considered when processing that word."
+    },
+    {
+        "question": "What is a language model?",
+        "answer": "A language model is a statistical model that predicts the probability of a sequence of words."
+    },
+    {
+        "question": "What is Natural Language Processing (NLP)?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is a semantic role labeling?",
+        "answer": "Semantic role labeling is the process of assigning semantic roles (e.g., agent, patient, instrument) to words in a sentence."
+    },
+    {
+        "question": "What is coreference resolution?",
+        "answer": "Coreference resolution is the task of identifying all expressions that refer to the same entity in a text."
+    },
+    {
+        "question": "What is a Natural Language Understanding (NLU)?",
+        "answer": "Natural Language Understanding (NLU) is a subtopic of natural language processing in artificial intelligence that deals with machine reading comprehension."
+    },
+    {
+        "question": "What is text generation?",
+        "answer": "Text generation is the process of automatically creating human-like text."
+    },
+    {
+        "question": "What is transfer learning in NLP?",
+        "answer": "Transfer learning is a technique where a model trained on one task is reused as a starting point for another task."
+    },
+    {
+        "question": "What is coreference resolution?",
+        "answer": "Coreference resolution is the task of identifying all expressions that refer to the same entity in a text."
+    },
+    {
+        "question": "What is a semantic role labeling?",
+        "answer": "Semantic role labeling is the process of assigning semantic roles (e.g., agent, patient, instrument) to words in a sentence."
+    },
+    {
+        "question": "What is a semantic role labeling?",
+        "answer": "Semantic role labeling is the process of assigning semantic roles (e.g., agent, patient, instrument) to words in a sentence."
+    },
+    {
+        "question": "What is a knowledge graph?",
+        "answer": "A knowledge graph is a graph-structured database that represents entities and their relationships."
+    },
+    {
+        "question": "What is a Natural Language Generation (NLG)?",
+        "answer": "Natural Language Generation (NLG) is a subtopic of natural language processing in artificial intelligence that generates natural language from a machine representation."
+    },
+    {
+        "question": "What are word embeddings?",
+        "answer": "Word embeddings are vector representations of words that capture their semantic relationships."
+    },
+    {
+        "question": "What is text classification?",
+        "answer": "Text classification is the task of assigning predefined categories to text documents."
+    },
+    {
+        "question": "What is a distributional semantics?",
+        "answer": "Distributional semantics is the study of word meaning based on the distribution of words in large text corpora."
+    },
+    {
+        "question": "What is part-of-speech (POS) tagging?",
+        "answer": "POS tagging is the process of assigning grammatical tags (e.g., noun, verb, adjective) to each word in a text."
+    },
+    {
+        "question": "What is BLEU score?",
+        "answer": "BLEU (Bilingual Evaluation Understudy) is an algorithm for evaluating the quality of machine-translated text."
+    },
+    {
+        "question": "What is a knowledge graph?",
+        "answer": "A knowledge graph is a graph-structured database that represents entities and their relationships."
+    },
+    {
+        "question": "What is ROUGE score?",
+        "answer": "ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is a set of metrics used for evaluating automatic summarization and machine translation."
+    },
+    {
+        "question": "What is sentiment analysis?",
+        "answer": "Sentiment analysis is the process of determining the emotional tone or attitude expressed in a text (e.g., positive, negative, neutral)."
+    },
+    {
+        "question": "What is TF-IDF?",
+        "answer": "TF-IDF (Term Frequency-Inverse Document Frequency) is a statistical measure used to evaluate the importance of a word in a document relative to a collection of documents."
+    },
+    {
+        "question": "What is n-gram?",
+        "answer": "An n-gram is a contiguous sequence of n items from a given sequence of text or speech."
+    },
+    {
+        "question": "What is a dialogue system?",
+        "answer": "A dialogue system is a computer system that engages in conversation with humans."
+    },
+    {
+        "question": "What is text summarization?",
+        "answer": "Text summarization is the process of creating a concise and accurate summary of a longer text."
+    },
+    {
+        "question": "What is a Natural Language Understanding (NLU)?",
+        "answer": "Natural Language Understanding (NLU) is a subtopic of natural language processing in artificial intelligence that deals with machine reading comprehension."
+    },
+    {
+        "question": "What is a semantic role labeling?",
+        "answer": "Semantic role labeling is the process of assigning semantic roles (e.g., agent, patient, instrument) to words in a sentence."
+    },
+    {
+        "question": "What is a dialogue system?",
+        "answer": "A dialogue system is a computer system that engages in conversation with humans."
+    },
+    {
+        "question": "What is a morphological analysis?",
+        "answer": "Morphological analysis is the study of word structure, including how words are formed from morphemes."
+    },
+    {
+        "question": "What is named entity recognition (NER)?",
+        "answer": "NER is the task of identifying and classifying named entities (e.g., people, organizations, locations) in a text."
+    },
+    {
+        "question": "What is a semantic role labeling?",
+        "answer": "Semantic role labeling is the process of assigning semantic roles (e.g., agent, patient, instrument) to words in a sentence."
+    },
+    {
+        "question": "What is question answering in NLP?",
+        "answer": "Question answering is the task of automatically answering questions posed in natural language."
+    },
+    {
+        "question": "What is regular expression in NLP?",
+        "answer": "Regular expressions are sequences of characters that define a search pattern, used for string matching."
+    },
+    {
+        "question": "What is BERT?",
+        "answer": "BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model that has achieved state-of-the-art results in various NLP tasks."
+    },
+    {
+        "question": "What is a vocabulary in NLP?",
+        "answer": "A vocabulary is the set of unique words in a corpus."
+    },
+    {
+        "question": "What is lemmatization?",
+        "answer": "Lemmatization is similar to stemming, but it reduces words to their base dictionary form (lemma), considering the word's meaning and context."
+    },
+    {
+        "question": "What is a transformer model?",
+        "answer": "A transformer model is a neural network architecture that relies on self-attention mechanisms, widely used in NLP tasks."
+    },
+    {
+        "question": "What is a knowledge graph?",
+        "answer": "A knowledge graph is a graph-structured database that represents entities and their relationships."
+    },
+    {
+        "question": "What is a morphological analysis?",
+        "answer": "Morphological analysis is the study of word structure, including how words are formed from morphemes."
+    },
+    {
+        "question": "What is a knowledge graph?",
+        "answer": "A knowledge graph is a graph-structured database that represents entities and their relationships."
+    },
+    {
+        "question": "What is a parse tree?",
+        "answer": "A parse tree is a tree representation of the syntactic structure of a sentence."
+    },
+    {
+        "question": "What is tokenization in NLP?",
+        "answer": "Tokenization is the process of breaking down a text into smaller units called tokens, which can be words, phrases, or symbols."
+    },
+    {
+        "question": "What is Natural Language Processing (NLP)?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is ROUGE score?",
+        "answer": "ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is a set of metrics used for evaluating automatic summarization and machine translation."
+    },
+    {
+        "question": "What is tokenization in NLP?",
+        "answer": "Tokenization is the process of breaking down a text into smaller units called tokens, which can be words, phrases, or symbols."
+    },
+    {
+        "question": "What is zero-shot learning in NLP?",
+        "answer": "Zero-shot learning is a technique that enables a model to recognize classes it hasn't seen during training."
+    },
+    {
+        "question": "What is a paraphrase?",
+        "answer": "A paraphrase is a restatement of a text or passage in other words, often to simplify or clarify."
+    },
+    {
+        "question": "What is a knowledge graph?",
+        "answer": "A knowledge graph is a graph-structured database that represents entities and their relationships."
+    },
+    {
+        "question": "What is a language model?",
+        "answer": "A language model is a statistical model that predicts the probability of a sequence of words."
+    },
+    {
+        "question": "What is a dialogue system?",
+        "answer": "A dialogue system is a computer system that engages in conversation with humans."
+    },
+    {
+        "question": "What is few-shot learning in NLP?",
+        "answer": "Few-shot learning is a technique that allows a model to learn new tasks with only a few examples."
+    },
+    {
+        "question": "What is a semantic network?",
+        "answer": "A semantic network is a graph representation of semantic relations between concepts."
+    },
+    {
+        "question": "What are word embeddings?",
+        "answer": "Word embeddings are vector representations of words that capture their semantic relationships."
+    },
+    {
+        "question": "What is Natural Language Processing (NLP)?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is text generation?",
+        "answer": "Text generation is the process of automatically creating human-like text."
+    },
+    {
+        "question": "What is a chatbot?",
+        "answer": "A chatbot is a computer program designed to simulate conversation with human users, especially over the internet."
+    },
+    {
+        "question": "What is a knowledge graph?",
+        "answer": "A knowledge graph is a graph-structured database that represents entities and their relationships."
+    },
+    {
+        "question": "What is stemming?",
+        "answer": "Stemming is the process of reducing words to their root or base form by removing suffixes."
+    },
+    {
+        "question": "What is zero-shot learning in NLP?",
+        "answer": "Zero-shot learning is a technique that enables a model to recognize classes it hasn't seen during training."
+    },
+    {
+        "question": "What is few-shot learning in NLP?",
+        "answer": "Few-shot learning is a technique that allows a model to learn new tasks with only a few examples."
+    },
+    {
+        "question": "What is a chatbot?",
+        "answer": "A chatbot is a computer program designed to simulate conversation with human users, especially over the internet."
+    },
+    {
+        "question": "What is question answering in NLP?",
+        "answer": "Question answering is the task of automatically answering questions posed in natural language."
+    },
+    {
+        "question": "What is a stop word?",
+        "answer": "Stop words are common words (e.g., 'the', 'a', 'is') that are often removed from text during preprocessing."
+    },
+    {
+        "question": "What is a vocabulary in NLP?",
+        "answer": "A vocabulary is the set of unique words in a corpus."
+    },
+    {
+        "question": "What is a distributional semantics?",
+        "answer": "Distributional semantics is the study of word meaning based on the distribution of words in large text corpora."
+    },
+    {
+        "question": "What is semantic analysis?",
+        "answer": "Semantic analysis is the process of understanding the meaning of words, phrases, and sentences in context."
+    },
+    {
+        "question": "What is lemmatization?",
+        "answer": "Lemmatization is similar to stemming, but it reduces words to their base dictionary form (lemma), considering the word's meaning and context."
+    },
+    {
+        "question": "What is a Natural Language Understanding (NLU)?",
+        "answer": "Natural Language Understanding (NLU) is a subtopic of natural language processing in artificial intelligence that deals with machine reading comprehension."
+    },
+    {
+        "question": "What is a transformer model?",
+        "answer": "A transformer model is a neural network architecture that relies on self-attention mechanisms, widely used in NLP tasks."
+    },
+    {
+        "question": "What is dependency parsing?",
+        "answer": "Dependency parsing is the task of analyzing the grammatical dependencies between words in a sentence."
+    },
+    {
+        "question": "What is a semantic role labeling?",
+        "answer": "Semantic role labeling is the process of assigning semantic roles (e.g., agent, patient, instrument) to words in a sentence."
+    },
+    {
+        "question": "What is a vocabulary in NLP?",
+        "answer": "A vocabulary is the set of unique words in a corpus."
+    },
+    {
+        "question": "What is n-gram?",
+        "answer": "An n-gram is a contiguous sequence of n items from a given sequence of text or speech."
+    },
+    {
+        "question": "What is Natural Language Processing (NLP)?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is named entity recognition (NER)?",
+        "answer": "NER is the task of identifying and classifying named entities (e.g., people, organizations, locations) in a text."
+    },
+    {
+        "question": "What is a morphological analysis?",
+        "answer": "Morphological analysis is the study of word structure, including how words are formed from morphemes."
+    },
+    {
+        "question": "What is semantic analysis?",
+        "answer": "Semantic analysis is the process of understanding the meaning of words, phrases, and sentences in context."
+    },
+    {
+        "question": "What is a transformer model?",
+        "answer": "A transformer model is a neural network architecture that relies on self-attention mechanisms, widely used in NLP tasks."
+    },
+    {
+        "question": "What is a knowledge graph?",
+        "answer": "A knowledge graph is a graph-structured database that represents entities and their relationships."
+    },
+    {
+        "question": "What is n-gram?",
+        "answer": "An n-gram is a contiguous sequence of n items from a given sequence of text or speech."
+    },
+    {
+        "question": "What is part-of-speech (POS) tagging?",
+        "answer": "POS tagging is the process of assigning grammatical tags (e.g., noun, verb, adjective) to each word in a text."
+    },
+    {
+        "question": "What is TF-IDF?",
+        "answer": "TF-IDF (Term Frequency-Inverse Document Frequency) is a statistical measure used to evaluate the importance of a word in a document relative to a collection of documents."
+    },
+    {
+        "question": "What is a paraphrase?",
+        "answer": "A paraphrase is a restatement of a text or passage in other words, often to simplify or clarify."
+    },
+    {
+        "question": "What is a knowledge graph?",
+        "answer": "A knowledge graph is a graph-structured database that represents entities and their relationships."
+    },
+    {
+        "question": "What is regular expression in NLP?",
+        "answer": "Regular expressions are sequences of characters that define a search pattern, used for string matching."
+    },
+    {
+        "question": "What is a corpus in NLP?",
+        "answer": "A corpus is a large and structured set of texts used for linguistic analysis."
+    },
+    {
+        "question": "What is BLEU score?",
+        "answer": "BLEU (Bilingual Evaluation Understudy) is an algorithm for evaluating the quality of machine-translated text."
+    },
+    {
+        "question": "What is transfer learning in NLP?",
+        "answer": "Transfer learning is a technique where a model trained on one task is reused as a starting point for another task."
+    },
+    {
+        "question": "What is topic modeling?",
+        "answer": "Topic modeling is a statistical modeling technique for discovering the abstract 'topics' that occur in a collection of documents."
+    },
+    {
+        "question": "What is a language model?",
+        "answer": "A language model is a statistical model that predicts the probability of a sequence of words."
+    },
+    {
+        "question": "What is a morphological analysis?",
+        "answer": "Morphological analysis is the study of word structure, including how words are formed from morphemes."
+    },
+    {
+        "question": "What is sentiment analysis?",
+        "answer": "Sentiment analysis is the process of determining the emotional tone or attitude expressed in a text (e.g., positive, negative, neutral)."
+    },
+    {
+        "question": "What is a vector space model?",
+        "answer": "A vector space model is an algebraic model for representing text documents as vectors of identifiers."
+    },
+    {
+        "question": "What is word sense disambiguation?",
+        "answer": "Word sense disambiguation is the process of identifying the correct meaning of a word in a given context."
+    },
+    {
+        "question": "What is a Natural Language Understanding (NLU)?",
+        "answer": "Natural Language Understanding (NLU) is a subtopic of natural language processing in artificial intelligence that deals with machine reading comprehension."
+    },
+    {
+        "question": "What is syntactic analysis?",
+        "answer": "Syntactic analysis is the process of analyzing the grammatical structure of sentences."
+    },
+    {
+        "question": "What is tokenization in NLP?",
+        "answer": "Tokenization is the process of breaking down a text into smaller units called tokens, which can be words, phrases, or symbols."
+    },
+    {
+        "question": "What is coreference resolution?",
+        "answer": "Coreference resolution is the task of identifying all expressions that refer to the same entity in a text."
+    },
+    {
+        "question": "What is a language model evaluation?",
+        "answer": "Language model evaluation is the process of assessing the quality and performance of a language model."
+    },
+    {
+        "question": "What is lemmatization?",
+        "answer": "Lemmatization is similar to stemming, but it reduces words to their base dictionary form (lemma), considering the word's meaning and context."
+    },
+    {
+        "question": "What is Natural Language Processing (NLP)?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is a morphological analysis?",
+        "answer": "Morphological analysis is the study of word structure, including how words are formed from morphemes."
+    },
+    {
+        "question": "What is syntactic analysis?",
+        "answer": "Syntactic analysis is the process of analyzing the grammatical structure of sentences."
+    },
+    {
+        "question": "What is a semantic role labeling?",
+        "answer": "Semantic role labeling is the process of assigning semantic roles (e.g., agent, patient, instrument) to words in a sentence."
+    },
+    {
+        "question": "What is a vector space model?",
+        "answer": "A vector space model is an algebraic model for representing text documents as vectors of identifiers."
+    },
+    {
+        "question": "What is a corpus in NLP?",
+        "answer": "A corpus is a large and structured set of texts used for linguistic analysis."
+    },
+    {
+        "question": "What is a vocabulary in NLP?",
+        "answer": "A vocabulary is the set of unique words in a corpus."
+    },
+    {
+        "question": "What is TF-IDF?",
+        "answer": "TF-IDF (Term Frequency-Inverse Document Frequency) is a statistical measure used to evaluate the importance of a word in a document relative to a collection of documents."
+    },
+    {
+        "question": "What is a paraphrase?",
+        "answer": "A paraphrase is a restatement of a text or passage in other words, often to simplify or clarify."
+    },
+    {
+        "question": "What is stemming?",
+        "answer": "Stemming is the process of reducing words to their root or base form by removing suffixes."
+    },
+    {
+        "question": "What is a paraphrase?",
+        "answer": "A paraphrase is a restatement of a text or passage in other words, often to simplify or clarify."
+    },
+    {
+        "question": "What is zero-shot learning in NLP?",
+        "answer": "Zero-shot learning is a technique that enables a model to recognize classes it hasn't seen during training."
+    },
+    {
+        "question": "What is n-gram?",
+        "answer": "An n-gram is a contiguous sequence of n items from a given sequence of text or speech."
+    },
+    {
+        "question": "What is a knowledge base?",
+        "answer": "A knowledge base is a technology used to store complex structured and unstructured information used by a computer system."
+    },
+    {
+        "question": "What is a vocabulary in NLP?",
+        "answer": "A vocabulary is the set of unique words in a corpus."
+    },
+    {
+        "question": "What is tokenization in NLP?",
+        "answer": "Tokenization is the process of breaking down a text into smaller units called tokens, which can be words, phrases, or symbols."
+    },
+    {
+        "question": "What is a dialogue system?",
+        "answer": "A dialogue system is a computer system that engages in conversation with humans."
+    },
+    {
+        "question": "What is coreference resolution?",
+        "answer": "Coreference resolution is the task of identifying all expressions that refer to the same entity in a text."
+    },
+    {
+        "question": "What is GPT?",
+        "answer": "GPT (Generative Pre-trained Transformer) is a transformer-based model known for its text generation capabilities."
+    },
+    {
+        "question": "What is a paraphrase?",
+        "answer": "A paraphrase is a restatement of a text or passage in other words, often to simplify or clarify."
+    },
+    {
+        "question": "What is transfer learning in NLP?",
+        "answer": "Transfer learning is a technique where a model trained on one task is reused as a starting point for another task."
+    },
+    {
+        "question": "What is a dialogue system?",
+        "answer": "A dialogue system is a computer system that engages in conversation with humans."
+    },
+    {
+        "question": "What is a semantic network?",
+        "answer": "A semantic network is a graph representation of semantic relations between concepts."
+    },
+    {
+        "question": "What is a semantic network?",
+        "answer": "A semantic network is a graph representation of semantic relations between concepts."
+    },
+    {
+        "question": "What is a context window?",
+        "answer": "A context window is the range of words surrounding a target word that is considered when processing that word."
+    },
+    {
+        "question": "What is a dialogue system?",
+        "answer": "A dialogue system is a computer system that engages in conversation with humans."
+    },
+    {
+        "question": "What is a Natural Language Understanding (NLU)?",
+        "answer": "Natural Language Understanding (NLU) is a subtopic of natural language processing in artificial intelligence that deals with machine reading comprehension."
+    },
+    {
+        "question": "What is named entity recognition (NER)?",
+        "answer": "NER is the task of identifying and classifying named entities (e.g., people, organizations, locations) in a text."
+    },
+    {
+        "question": "What is topic modeling?",
+        "answer": "Topic modeling is a statistical modeling technique for discovering the abstract 'topics' that occur in a collection of documents."
+    },
+    {
+        "question": "What is a distributional semantics?",
+        "answer": "Distributional semantics is the study of word meaning based on the distribution of words in large text corpora."
+    },
+    {
+        "question": "What is BLEU score?",
+        "answer": "BLEU (Bilingual Evaluation Understudy) is an algorithm for evaluating the quality of machine-translated text."
+    },
+    {
+        "question": "What is part-of-speech (POS) tagging?",
+        "answer": "POS tagging is the process of assigning grammatical tags (e.g., noun, verb, adjective) to each word in a text."
+    },
+    {
+        "question": "What is coreference resolution?",
+        "answer": "Coreference resolution is the task of identifying all expressions that refer to the same entity in a text."
+    },
+    {
+        "question": "What is a language model evaluation?",
+        "answer": "Language model evaluation is the process of assessing the quality and performance of a language model."
+    },
+    {
+        "question": "What is a Natural Language Understanding (NLU)?",
+        "answer": "Natural Language Understanding (NLU) is a subtopic of natural language processing in artificial intelligence that deals with machine reading comprehension."
+    },
+    {
+        "question": "What is Natural Language Processing (NLP)?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is semantic analysis?",
+        "answer": "Semantic analysis is the process of understanding the meaning of words, phrases, and sentences in context."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is sentiment analysis?",
+        "answer": "Sentiment analysis is the process of determining the emotional tone or attitude expressed in a text (e.g., positive, negative, neutral)."
+    },
+    {
+        "question": "What is syntactic analysis?",
+        "answer": "Syntactic analysis is the process of analyzing the grammatical structure of sentences."
+    },
+    {
+        "question": "What is GPT?",
+        "answer": "GPT (Generative Pre-trained Transformer) is a transformer-based model known for its text generation capabilities."
+    },
+    {
+        "question": "What is a transformer model?",
+        "answer": "A transformer model is a neural network architecture that relies on self-attention mechanisms, widely used in NLP tasks."
+    },
+    {
+        "question": "What is few-shot learning in NLP?",
+        "answer": "Few-shot learning is a technique that allows a model to learn new tasks with only a few examples."
+    },
+    {
+        "question": "What is part-of-speech (POS) tagging?",
+        "answer": "POS tagging is the process of assigning grammatical tags (e.g., noun, verb, adjective) to each word in a text."
+    },
+    {
+        "question": "What is zero-shot learning in NLP?",
+        "answer": "Zero-shot learning is a technique that enables a model to recognize classes it hasn't seen during training."
+    },
+    {
+        "question": "What is a knowledge base?",
+        "answer": "A knowledge base is a technology used to store complex structured and unstructured information used by a computer system."
+    },
+    {
+        "question": "What is GPT?",
+        "answer": "GPT (Generative Pre-trained Transformer) is a transformer-based model known for its text generation capabilities."
+    },
+    {
+        "question": "What is a semantic network?",
+        "answer": "A semantic network is a graph representation of semantic relations between concepts."
+    },
+    {
+        "question": "What is topic modeling?",
+        "answer": "Topic modeling is a statistical modeling technique for discovering the abstract 'topics' that occur in a collection of documents."
+    },
+    {
+        "question": "What is sentiment analysis?",
+        "answer": "Sentiment analysis is the process of determining the emotional tone or attitude expressed in a text (e.g., positive, negative, neutral)."
+    },
+    {
+        "question": "What is dependency parsing?",
+        "answer": "Dependency parsing is the task of analyzing the grammatical dependencies between words in a sentence."
+    },
+    {
+        "question": "What is a semantic network?",
+        "answer": "A semantic network is a graph representation of semantic relations between concepts."
+    },
+    {
+        "question": "What is a distributional semantics?",
+        "answer": "Distributional semantics is the study of word meaning based on the distribution of words in large text corpora."
+    },
+    {
+        "question": "What is BERT?",
+        "answer": "BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model that has achieved state-of-the-art results in various NLP tasks."
+    },
+    {
+        "question": "What is a semantic network?",
+        "answer": "A semantic network is a graph representation of semantic relations between concepts."
+    },
+    {
+        "question": "What is a Natural Language Generation (NLG)?",
+        "answer": "Natural Language Generation (NLG) is a subtopic of natural language processing in artificial intelligence that generates natural language from a machine representation."
+    },
+    {
+        "question": "What is a parse tree?",
+        "answer": "A parse tree is a tree representation of the syntactic structure of a sentence."
+    },
+    {
+        "question": "What are word embeddings?",
+        "answer": "Word embeddings are vector representations of words that capture their semantic relationships."
+    },
+    {
+        "question": "What is text generation?",
+        "answer": "Text generation is the process of automatically creating human-like text."
+    },
+    {
+        "question": "What is a Natural Language Generation (NLG)?",
+        "answer": "Natural Language Generation (NLG) is a subtopic of natural language processing in artificial intelligence that generates natural language from a machine representation."
+    },
+    {
+        "question": "What is syntactic analysis?",
+        "answer": "Syntactic analysis is the process of analyzing the grammatical structure of sentences."
+    },
+    {
+        "question": "What is a transformer model?",
+        "answer": "A transformer model is a neural network architecture that relies on self-attention mechanisms, widely used in NLP tasks."
+    },
+    {
+        "question": "What is question answering in NLP?",
+        "answer": "Question answering is the task of automatically answering questions posed in natural language."
+    },
+    {
+        "question": "What is named entity recognition (NER)?",
+        "answer": "NER is the task of identifying and classifying named entities (e.g., people, organizations, locations) in a text."
+    },
+    {
+        "question": "What is a stop word?",
+        "answer": "Stop words are common words (e.g., 'the', 'a', 'is') that are often removed from text during preprocessing."
+    },
+    {
+        "question": "What is text classification?",
+        "answer": "Text classification is the task of assigning predefined categories to text documents."
+    },
+    {
+        "question": "What is word sense disambiguation?",
+        "answer": "Word sense disambiguation is the process of identifying the correct meaning of a word in a given context."
+    },
+    {
+        "question": "What is Natural Language Processing (NLP)?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is part-of-speech (POS) tagging?",
+        "answer": "POS tagging is the process of assigning grammatical tags (e.g., noun, verb, adjective) to each word in a text."
+    },
+    {
+        "question": "What is a language model evaluation?",
+        "answer": "Language model evaluation is the process of assessing the quality and performance of a language model."
+    },
+    {
+        "question": "What is regular expression in NLP?",
+        "answer": "Regular expressions are sequences of characters that define a search pattern, used for string matching."
+    },
+    {
+        "question": "What is a Natural Language Understanding (NLU)?",
+        "answer": "Natural Language Understanding (NLU) is a subtopic of natural language processing in artificial intelligence that deals with machine reading comprehension."
+    },
+    {
+        "question": "What is regular expression in NLP?",
+        "answer": "Regular expressions are sequences of characters that define a search pattern, used for string matching."
+    },
+    {
+        "question": "What is a semantic role labeling?",
+        "answer": "Semantic role labeling is the process of assigning semantic roles (e.g., agent, patient, instrument) to words in a sentence."
+    },
+    {
+        "question": "What is a morphological analysis?",
+        "answer": "Morphological analysis is the study of word structure, including how words are formed from morphemes."
+    },
+    {
+        "question": "What is a transformer model?",
+        "answer": "A transformer model is a neural network architecture that relies on self-attention mechanisms, widely used in NLP tasks."
+    },
+    {
+        "question": "What is a vector space model?",
+        "answer": "A vector space model is an algebraic model for representing text documents as vectors of identifiers."
+    },
+    {
+        "question": "What is text classification?",
+        "answer": "Text classification is the task of assigning predefined categories to text documents."
+    },
+    {
+        "question": "What is a chatbot?",
+        "answer": "A chatbot is a computer program designed to simulate conversation with human users, especially over the internet."
+    },
+    {
+        "question": "What is a vector space model?",
+        "answer": "A vector space model is an algebraic model for representing text documents as vectors of identifiers."
+    },
+    {
+        "question": "What is regular expression in NLP?",
+        "answer": "Regular expressions are sequences of characters that define a search pattern, used for string matching."
+    },
+    {
+        "question": "What is few-shot learning in NLP?",
+        "answer": "Few-shot learning is a technique that allows a model to learn new tasks with only a few examples."
+    },
+    {
+        "question": "What is a chatbot?",
+        "answer": "A chatbot is a computer program designed to simulate conversation with human users, especially over the internet."
+    },
+    {
+        "question": "What is lemmatization?",
+        "answer": "Lemmatization is similar to stemming, but it reduces words to their base dictionary form (lemma), considering the word's meaning and context."
+    },
+    {
+        "question": "What is text classification?",
+        "answer": "Text classification is the task of assigning predefined categories to text documents."
+    },
+    {
+        "question": "What is semantic analysis?",
+        "answer": "Semantic analysis is the process of understanding the meaning of words, phrases, and sentences in context."
+    },
+    {
+        "question": "What is coreference resolution?",
+        "answer": "Coreference resolution is the task of identifying all expressions that refer to the same entity in a text."
+    },
+    {
+        "question": "What is a language model?",
+        "answer": "A language model is a statistical model that predicts the probability of a sequence of words."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is question answering in NLP?",
+        "answer": "Question answering is the task of automatically answering questions posed in natural language."
+    },
+    {
+        "question": "What is stemming?",
+        "answer": "Stemming is the process of reducing words to their root or base form by removing suffixes."
+    },
+    {
+        "question": "What is text summarization?",
+        "answer": "Text summarization is the process of creating a concise and accurate summary of a longer text."
+    },
+    {
+        "question": "What is a Natural Language Generation (NLG)?",
+        "answer": "Natural Language Generation (NLG) is a subtopic of natural language processing in artificial intelligence that generates natural language from a machine representation."
+    },
+    {
+        "question": "What is text generation?",
+        "answer": "Text generation is the process of automatically creating human-like text."
+    },
+    {
+        "question": "What is lemmatization?",
+        "answer": "Lemmatization is similar to stemming, but it reduces words to their base dictionary form (lemma), considering the word's meaning and context."
+    },
+    {
+        "question": "What is question answering in NLP?",
+        "answer": "Question answering is the task of automatically answering questions posed in natural language."
+    },
+    {
+        "question": "What is a vector space model?",
+        "answer": "A vector space model is an algebraic model for representing text documents as vectors of identifiers."
+    },
+    {
+        "question": "What is a morphological analysis?",
+        "answer": "Morphological analysis is the study of word structure, including how words are formed from morphemes."
+    },
+    {
+        "question": "What is a transformer model?",
+        "answer": "A transformer model is a neural network architecture that relies on self-attention mechanisms, widely used in NLP tasks."
+    },
+    {
+        "question": "What is BERT?",
+        "answer": "BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model that has achieved state-of-the-art results in various NLP tasks."
+    },
+    {
+        "question": "What is a distributional semantics?",
+        "answer": "Distributional semantics is the study of word meaning based on the distribution of words in large text corpora."
+    },
+    {
+        "question": "What is semantic analysis?",
+        "answer": "Semantic analysis is the process of understanding the meaning of words, phrases, and sentences in context."
+    },
+    {
+        "question": "What is few-shot learning in NLP?",
+        "answer": "Few-shot learning is a technique that allows a model to learn new tasks with only a few examples."
+    },
+    {
+        "question": "What is text classification?",
+        "answer": "Text classification is the task of assigning predefined categories to text documents."
+    },
+    {
+        "question": "What is a semantic network?",
+        "answer": "A semantic network is a graph representation of semantic relations between concepts."
+    },
+    {
+        "question": "What is coreference resolution?",
+        "answer": "Coreference resolution is the task of identifying all expressions that refer to the same entity in a text."
+    },
+    {
+        "question": "What is a dialogue system?",
+        "answer": "A dialogue system is a computer system that engages in conversation with humans."
+    },
+    {
+        "question": "What is syntactic analysis?",
+        "answer": "Syntactic analysis is the process of analyzing the grammatical structure of sentences."
+    },
+    {
+        "question": "What is a context window?",
+        "answer": "A context window is the range of words surrounding a target word that is considered when processing that word."
+    },
+    {
+        "question": "What is a knowledge base?",
+        "answer": "A knowledge base is a technology used to store complex structured and unstructured information used by a computer system."
+    },
+    {
+        "question": "What is word sense disambiguation?",
+        "answer": "Word sense disambiguation is the process of identifying the correct meaning of a word in a given context."
+    },
+    {
+        "question": "What is BERT?",
+        "answer": "BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model that has achieved state-of-the-art results in various NLP tasks."
+    },
+    {
+        "question": "What is transfer learning in NLP?",
+        "answer": "Transfer learning is a technique where a model trained on one task is reused as a starting point for another task."
+    },
+    {
+        "question": "What is named entity recognition (NER)?",
+        "answer": "NER is the task of identifying and classifying named entities (e.g., people, organizations, locations) in a text."
+    },
+    {
+        "question": "What is a vector space model?",
+        "answer": "A vector space model is an algebraic model for representing text documents as vectors of identifiers."
+    },
+    {
+        "question": "What is few-shot learning in NLP?",
+        "answer": "Few-shot learning is a technique that allows a model to learn new tasks with only a few examples."
+    },
+    {
+        "question": "What is a dialogue system?",
+        "answer": "A dialogue system is a computer system that engages in conversation with humans."
+    },
+    {
+        "question": "What is a context window?",
+        "answer": "A context window is the range of words surrounding a target word that is considered when processing that word."
+    },
+    {
+        "question": "What is syntactic analysis?",
+        "answer": "Syntactic analysis is the process of analyzing the grammatical structure of sentences."
+    },
+    {
+        "question": "What is a distributional semantics?",
+        "answer": "Distributional semantics is the study of word meaning based on the distribution of words in large text corpora."
+    },
+    {
+        "question": "What is a semantic role labeling?",
+        "answer": "Semantic role labeling is the process of assigning semantic roles (e.g., agent, patient, instrument) to words in a sentence."
+    },
+    {
+        "question": "What is a paraphrase?",
+        "answer": "A paraphrase is a restatement of a text or passage in other words, often to simplify or clarify."
+    },
+    {
+        "question": "What is n-gram?",
+        "answer": "An n-gram is a contiguous sequence of n items from a given sequence of text or speech."
+    },
+    {
+        "question": "What is coreference resolution?",
+        "answer": "Coreference resolution is the task of identifying all expressions that refer to the same entity in a text."
+    },
+    {
+        "question": "What is dependency parsing?",
+        "answer": "Dependency parsing is the task of analyzing the grammatical dependencies between words in a sentence."
+    },
+    {
+        "question": "What is Natural Language Processing (NLP)?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is n-gram?",
+        "answer": "An n-gram is a contiguous sequence of n items from a given sequence of text or speech."
+    },
+    {
+        "question": "What is ROUGE score?",
+        "answer": "ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is a set of metrics used for evaluating automatic summarization and machine translation."
+    },
+    {
+        "question": "What is a Natural Language Generation (NLG)?",
+        "answer": "Natural Language Generation (NLG) is a subtopic of natural language processing in artificial intelligence that generates natural language from a machine representation."
+    },
+    {
+        "question": "What is syntactic analysis?",
+        "answer": "Syntactic analysis is the process of analyzing the grammatical structure of sentences."
+    },
+    {
+        "question": "What is coreference resolution?",
+        "answer": "Coreference resolution is the task of identifying all expressions that refer to the same entity in a text."
+    },
+    {
+        "question": "What is a semantic network?",
+        "answer": "A semantic network is a graph representation of semantic relations between concepts."
+    },
+    {
+        "question": "What is a semantic network?",
+        "answer": "A semantic network is a graph representation of semantic relations between concepts."
+    },
+    {
+        "question": "What is syntactic analysis?",
+        "answer": "Syntactic analysis is the process of analyzing the grammatical structure of sentences."
+    },
+    {
+        "question": "What is a Natural Language Generation (NLG)?",
+        "answer": "Natural Language Generation (NLG) is a subtopic of natural language processing in artificial intelligence that generates natural language from a machine representation."
+    },
+    {
+        "question": "What is text summarization?",
+        "answer": "Text summarization is the process of creating a concise and accurate summary of a longer text."
+    },
+    {
+        "question": "What is named entity recognition (NER)?",
+        "answer": "NER is the task of identifying and classifying named entities (e.g., people, organizations, locations) in a text."
+    },
+    {
+        "question": "What is stemming?",
+        "answer": "Stemming is the process of reducing words to their root or base form by removing suffixes."
+    },
+    {
+        "question": "What is regular expression in NLP?",
+        "answer": "Regular expressions are sequences of characters that define a search pattern, used for string matching."
+    },
+    {
+        "question": "What is question answering in NLP?",
+        "answer": "Question answering is the task of automatically answering questions posed in natural language."
+    },
+    {
+        "question": "What is word sense disambiguation?",
+        "answer": "Word sense disambiguation is the process of identifying the correct meaning of a word in a given context."
+    },
+    {
+        "question": "What is a semantic role labeling?",
+        "answer": "Semantic role labeling is the process of assigning semantic roles (e.g., agent, patient, instrument) to words in a sentence."
+    },
+    {
+        "question": "What is a dialogue system?",
+        "answer": "A dialogue system is a computer system that engages in conversation with humans."
+    },
+    {
+        "question": "What is a knowledge base?",
+        "answer": "A knowledge base is a technology used to store complex structured and unstructured information used by a computer system."
+    },
+    {
+        "question": "What is word sense disambiguation?",
+        "answer": "Word sense disambiguation is the process of identifying the correct meaning of a word in a given context."
+    },
+    {
+        "question": "What is topic modeling?",
+        "answer": "Topic modeling is a statistical modeling technique for discovering the abstract 'topics' that occur in a collection of documents."
+    },
+    {
+        "question": "What is dependency parsing?",
+        "answer": "Dependency parsing is the task of analyzing the grammatical dependencies between words in a sentence."
+    },
+    {
+        "question": "What is BERT?",
+        "answer": "BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model that has achieved state-of-the-art results in various NLP tasks."
+    },
+    {
+        "question": "What is syntactic analysis?",
+        "answer": "Syntactic analysis is the process of analyzing the grammatical structure of sentences."
+    },
+    {
+        "question": "What is coreference resolution?",
+        "answer": "Coreference resolution is the task of identifying all expressions that refer to the same entity in a text."
+    },
+    {
+        "question": "What is machine translation?",
+        "answer": "Machine translation is the task of automatically translating text from one language to another."
+    },
+    {
+        "question": "What is a context window?",
+        "answer": "A context window is the range of words surrounding a target word that is considered when processing that word."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is a context window?",
+        "answer": "A context window is the range of words surrounding a target word that is considered when processing that word."
+    },
+    {
+        "question": "What is a Natural Language Understanding (NLU)?",
+        "answer": "Natural Language Understanding (NLU) is a subtopic of natural language processing in artificial intelligence that deals with machine reading comprehension."
+    },
+    {
+        "question": "What is stemming?",
+        "answer": "Stemming is the process of reducing words to their root or base form by removing suffixes."
+    },
+    {
+        "question": "What is zero-shot learning in NLP?",
+        "answer": "Zero-shot learning is a technique that enables a model to recognize classes it hasn't seen during training."
+    },
+    {
+        "question": "What is a stop word?",
+        "answer": "Stop words are common words (e.g., 'the', 'a', 'is') that are often removed from text during preprocessing."
+    },
+    {
+        "question": "What is ROUGE score?",
+        "answer": "ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is a set of metrics used for evaluating automatic summarization and machine translation."
+    },
+    {
+        "question": "What is text generation?",
+        "answer": "Text generation is the process of automatically creating human-like text."
+    },
+    {
+        "question": "What is a knowledge base?",
+        "answer": "A knowledge base is a technology used to store complex structured and unstructured information used by a computer system."
+    },
+    {
+        "question": "What is lemmatization?",
+        "answer": "Lemmatization is similar to stemming, but it reduces words to their base dictionary form (lemma), considering the word's meaning and context."
+    },
+    {
+        "question": "What is topic modeling?",
+        "answer": "Topic modeling is a statistical modeling technique for discovering the abstract 'topics' that occur in a collection of documents."
+    },
+    {
+        "question": "What is a stop word?",
+        "answer": "Stop words are common words (e.g., 'the', 'a', 'is') that are often removed from text during preprocessing."
+    },
+    {
+        "question": "What is a stop word?",
+        "answer": "Stop words are common words (e.g., 'the', 'a', 'is') that are often removed from text during preprocessing."
+    },
+    {
+        "question": "What is topic modeling?",
+        "answer": "Topic modeling is a statistical modeling technique for discovering the abstract 'topics' that occur in a collection of documents."
+    },
+    {
+        "question": "What is a vocabulary in NLP?",
+        "answer": "A vocabulary is the set of unique words in a corpus."
+    },
+    {
+        "question": "What is a vector space model?",
+        "answer": "A vector space model is an algebraic model for representing text documents as vectors of identifiers."
+    },
+    {
+        "question": "What is lemmatization?",
+        "answer": "Lemmatization is similar to stemming, but it reduces words to their base dictionary form (lemma), considering the word's meaning and context."
+    },
+    {
+        "question": "What is topic modeling?",
+        "answer": "Topic modeling is a statistical modeling technique for discovering the abstract 'topics' that occur in a collection of documents."
+    },
+    {
+        "question": "What are word embeddings?",
+        "answer": "Word embeddings are vector representations of words that capture their semantic relationships."
+    },
+    {
+        "question": "What is TF-IDF?",
+        "answer": "TF-IDF (Term Frequency-Inverse Document Frequency) is a statistical measure used to evaluate the importance of a word in a document relative to a collection of documents."
+    },
+    {
+        "question": "What is regular expression in NLP?",
+        "answer": "Regular expressions are sequences of characters that define a search pattern, used for string matching."
+    },
+    {
+        "question": "What is sentiment analysis?",
+        "answer": "Sentiment analysis is the process of determining the emotional tone or attitude expressed in a text (e.g., positive, negative, neutral)."
+    },
+    {
+        "question": "What are word embeddings?",
+        "answer": "Word embeddings are vector representations of words that capture their semantic relationships."
+    },
+    {
+        "question": "What is TF-IDF?",
+        "answer": "TF-IDF (Term Frequency-Inverse Document Frequency) is a statistical measure used to evaluate the importance of a word in a document relative to a collection of documents."
+    },
+    {
+        "question": "What is a transformer model?",
+        "answer": "A transformer model is a neural network architecture that relies on self-attention mechanisms, widely used in NLP tasks."
+    },
+    {
+        "question": "What is a dialogue system?",
+        "answer": "A dialogue system is a computer system that engages in conversation with humans."
+    },
+    {
+        "question": "What is dependency parsing?",
+        "answer": "Dependency parsing is the task of analyzing the grammatical dependencies between words in a sentence."
+    },
+    {
+        "question": "What is a parse tree?",
+        "answer": "A parse tree is a tree representation of the syntactic structure of a sentence."
+    },
+    {
+        "question": "What is a knowledge graph?",
+        "answer": "A knowledge graph is a graph-structured database that represents entities and their relationships."
+    },
+    {
+        "question": "What is a morphological analysis?",
+        "answer": "Morphological analysis is the study of word structure, including how words are formed from morphemes."
+    },
+    {
+        "question": "What is a Natural Language Understanding (NLU)?",
+        "answer": "Natural Language Understanding (NLU) is a subtopic of natural language processing in artificial intelligence that deals with machine reading comprehension."
+    },
+    {
+        "question": "What is a morphological analysis?",
+        "answer": "Morphological analysis is the study of word structure, including how words are formed from morphemes."
+    },
+    {
+        "question": "What is dependency parsing?",
+        "answer": "Dependency parsing is the task of analyzing the grammatical dependencies between words in a sentence."
+    },
+    {
+        "question": "What is TF-IDF?",
+        "answer": "TF-IDF (Term Frequency-Inverse Document Frequency) is a statistical measure used to evaluate the importance of a word in a document relative to a collection of documents."
+    },
+    {
+        "question": "What is machine translation?",
+        "answer": "Machine translation is the task of automatically translating text from one language to another."
+    },
+    {
+        "question": "What is a transformer model?",
+        "answer": "A transformer model is a neural network architecture that relies on self-attention mechanisms, widely used in NLP tasks."
+    },
+    {
+        "question": "What is a vector space model?",
+        "answer": "A vector space model is an algebraic model for representing text documents as vectors of identifiers."
+    },
+    {
+        "question": "What is a distributional semantics?",
+        "answer": "Distributional semantics is the study of word meaning based on the distribution of words in large text corpora."
+    },
+    {
+        "question": "What is semantic analysis?",
+        "answer": "Semantic analysis is the process of understanding the meaning of words, phrases, and sentences in context."
+    },
+    {
+        "question": "What is sentiment analysis?",
+        "answer": "Sentiment analysis is the process of determining the emotional tone or attitude expressed in a text (e.g., positive, negative, neutral)."
+    },
+    {
+        "question": "What is a vector space model?",
+        "answer": "A vector space model is an algebraic model for representing text documents as vectors of identifiers."
+    },
+    {
+        "question": "What is GPT?",
+        "answer": "GPT (Generative Pre-trained Transformer) is a transformer-based model known for its text generation capabilities."
+    },
+    {
+        "question": "What is a transformer model?",
+        "answer": "A transformer model is a neural network architecture that relies on self-attention mechanisms, widely used in NLP tasks."
+    },
+    {
+        "question": "What is a knowledge base?",
+        "answer": "A knowledge base is a technology used to store complex structured and unstructured information used by a computer system."
+    },
+    {
+        "question": "What is a dialogue system?",
+        "answer": "A dialogue system is a computer system that engages in conversation with humans."
+    },
+    {
+        "question": "What is a discourse analysis?",
+        "answer": "Discourse analysis is the study of language beyond the sentence level, focusing on how language is used in social contexts."
+    },
+    {
+        "question": "What is n-gram?",
+        "answer": "An n-gram is a contiguous sequence of n items from a given sequence of text or speech."
+    },
+    {
+        "question": "What is lemmatization?",
+        "answer": "Lemmatization is similar to stemming, but it reduces words to their base dictionary form (lemma), considering the word's meaning and context."
+    },
+    {
+        "question": "What is word sense disambiguation?",
+        "answer": "Word sense disambiguation is the process of identifying the correct meaning of a word in a given context."
+    },
+    {
+        "question": "What is few-shot learning in NLP?",
+        "answer": "Few-shot learning is a technique that allows a model to learn new tasks with only a few examples."
+    },
+    {
+        "question": "What is dependency parsing?",
+        "answer": "Dependency parsing is the task of analyzing the grammatical dependencies between words in a sentence."
+    },
+    {
+        "question": "What is part-of-speech (POS) tagging?",
+        "answer": "POS tagging is the process of assigning grammatical tags (e.g., noun, verb, adjective) to each word in a text."
+    },
+    {
+        "question": "What is a vocabulary in NLP?",
+        "answer": "A vocabulary is the set of unique words in a corpus."
+    },
+    {
+        "question": "What is TF-IDF?",
+        "answer": "TF-IDF (Term Frequency-Inverse Document Frequency) is a statistical measure used to evaluate the importance of a word in a document relative to a collection of documents."
+    },
+    {
+        "question": "What is a morphological analysis?",
+        "answer": "Morphological analysis is the study of word structure, including how words are formed from morphemes."
+    },
+    {
+        "question": "What is word sense disambiguation?",
+        "answer": "Word sense disambiguation is the process of identifying the correct meaning of a word in a given context."
+    },
+    {
+        "question": "What is syntactic analysis?",
+        "answer": "Syntactic analysis is the process of analyzing the grammatical structure of sentences."
+    },
+    {
+        "question": "What is a dialogue system?",
+        "answer": "A dialogue system is a computer system that engages in conversation with humans."
+    },
+    {
+        "question": "What is a semantic network?",
+        "answer": "A semantic network is a graph representation of semantic relations between concepts."
+    },
+    {
+        "question": "What is dependency parsing?",
+        "answer": "Dependency parsing is the task of analyzing the grammatical dependencies between words in a sentence."
+    },
+    {
+        "question": "What is a dialogue system?",
+        "answer": "A dialogue system is a computer system that engages in conversation with humans."
+    },
+    {
+        "question": "What is transfer learning in NLP?",
+        "answer": "Transfer learning is a technique where a model trained on one task is reused as a starting point for another task."
+    },
+    {
+        "question": "What is transfer learning in NLP?",
+        "answer": "Transfer learning is a technique where a model trained on one task is reused as a starting point for another task."
+    },
+    {
+        "question": "What is a semantic role labeling?",
+        "answer": "Semantic role labeling is the process of assigning semantic roles (e.g., agent, patient, instrument) to words in a sentence."
+    },
+    {
+        "question": "What is transfer learning in NLP?",
+        "answer": "Transfer learning is a technique where a model trained on one task is reused as a starting point for another task."
+    },
+    {
+        "question": "What is BERT?",
+        "answer": "BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model that has achieved state-of-the-art results in various NLP tasks."
+    },
+    {
+        "question": "What are word embeddings?",
+        "answer": "Word embeddings are vector representations of words that capture their semantic relationships."
+    },
+    {
+        "question": "What is part-of-speech (POS) tagging?",
+        "answer": "POS tagging is the process of assigning grammatical tags (e.g., noun, verb, adjective) to each word in a text."
+    },
+    {
+        "question": "What is a morphological analysis?",
+        "answer": "Morphological analysis is the study of word structure, including how words are formed from morphemes."
+    },
+    {
+        "question": "What is a Natural Language Understanding (NLU)?",
+        "answer": "Natural Language Understanding (NLU) is a subtopic of natural language processing in artificial intelligence that deals with machine reading comprehension."
+    },
+    {
+        "question": "What is a vector space model?",
+        "answer": "A vector space model is an algebraic model for representing text documents as vectors of identifiers."
+    },
+    {
+        "question": "What is Natural Language Processing (NLP)?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is coreference resolution?",
+        "answer": "Coreference resolution is the task of identifying all expressions that refer to the same entity in a text."
+    },
+    {
+        "question": "What is a transformer model?",
+        "answer": "A transformer model is a neural network architecture that relies on self-attention mechanisms, widely used in NLP tasks."
+    },
+    {
+        "question": "What is BLEU score?",
+        "answer": "BLEU (Bilingual Evaluation Understudy) is an algorithm for evaluating the quality of machine-translated text."
+    },
+    {
+        "question": "What is coreference resolution?",
+        "answer": "Coreference resolution is the task of identifying all expressions that refer to the same entity in a text."
+    },
+    {
+        "question": "What is a discourse analysis?",
+        "answer": "Discourse analysis is the study of language beyond the sentence level, focusing on how language is used in social contexts."
+    },
+    {
+        "question": "What is tokenization in NLP?",
+        "answer": "Tokenization is the process of breaking down a text into smaller units called tokens, which can be words, phrases, or symbols."
+    },
+    {
+        "question": "What is BERT?",
+        "answer": "BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model that has achieved state-of-the-art results in various NLP tasks."
+    },
+    {
+        "question": "What is a chatbot?",
+        "answer": "A chatbot is a computer program designed to simulate conversation with human users, especially over the internet."
+    },
+    {
+        "question": "What is Natural Language Processing (NLP)?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is a chatbot?",
+        "answer": "A chatbot is a computer program designed to simulate conversation with human users, especially over the internet."
+    },
+    {
+        "question": "What is BERT?",
+        "answer": "BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model that has achieved state-of-the-art results in various NLP tasks."
+    },
+    {
+        "question": "What is a knowledge base?",
+        "answer": "A knowledge base is a technology used to store complex structured and unstructured information used by a computer system."
+    },
+    {
+        "question": "What is coreference resolution?",
+        "answer": "Coreference resolution is the task of identifying all expressions that refer to the same entity in a text."
+    },
+    {
+        "question": "What is a transformer model?",
+        "answer": "A transformer model is a neural network architecture that relies on self-attention mechanisms, widely used in NLP tasks."
+    },
+    {
+        "question": "What is topic modeling?",
+        "answer": "Topic modeling is a statistical modeling technique for discovering the abstract 'topics' that occur in a collection of documents."
+    },
+    {
+        "question": "What is Natural Language Processing (NLP)?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is zero-shot learning in NLP?",
+        "answer": "Zero-shot learning is a technique that enables a model to recognize classes it hasn't seen during training."
+    },
+    {
+        "question": "What is a context window?",
+        "answer": "A context window is the range of words surrounding a target word that is considered when processing that word."
+    },
+    {
+        "question": "What is named entity recognition (NER)?",
+        "answer": "NER is the task of identifying and classifying named entities (e.g., people, organizations, locations) in a text."
+    },
+    {
+        "question": "What is a dialogue system?",
+        "answer": "A dialogue system is a computer system that engages in conversation with humans."
+    },
+    {
+        "question": "What is tokenization in NLP?",
+        "answer": "Tokenization is the process of breaking down a text into smaller units called tokens, which can be words, phrases, or symbols."
+    },
+    {
+        "question": "What is a distributional semantics?",
+        "answer": "Distributional semantics is the study of word meaning based on the distribution of words in large text corpora."
+    },
+    {
+        "question": "What is a chatbot?",
+        "answer": "A chatbot is a computer program designed to simulate conversation with human users, especially over the internet."
+    },
+    {
+        "question": "What is a stop word?",
+        "answer": "Stop words are common words (e.g., 'the', 'a', 'is') that are often removed from text during preprocessing."
+    },
+    {
+        "question": "What is text summarization?",
+        "answer": "Text summarization is the process of creating a concise and accurate summary of a longer text."
+    },
+    {
+        "question": "What is Natural Language Processing (NLP)?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is a Natural Language Generation (NLG)?",
+        "answer": "Natural Language Generation (NLG) is a subtopic of natural language processing in artificial intelligence that generates natural language from a machine representation."
+    },
+    {
+        "question": "What is machine translation?",
+        "answer": "Machine translation is the task of automatically translating text from one language to another."
+    },
+    {
+        "question": "What is a vector space model?",
+        "answer": "A vector space model is an algebraic model for representing text documents as vectors of identifiers."
+    },
+    {
+        "question": "What is word sense disambiguation?",
+        "answer": "Word sense disambiguation is the process of identifying the correct meaning of a word in a given context."
+    },
+    {
+        "question": "What is transfer learning in NLP?",
+        "answer": "Transfer learning is a technique where a model trained on one task is reused as a starting point for another task."
+    },
+    {
+        "question": "What are word embeddings?",
+        "answer": "Word embeddings are vector representations of words that capture their semantic relationships."
+    },
+    {
+        "question": "What is a stop word?",
+        "answer": "Stop words are common words (e.g., 'the', 'a', 'is') that are often removed from text during preprocessing."
+    },
+    {
+        "question": "What is a distributional semantics?",
+        "answer": "Distributional semantics is the study of word meaning based on the distribution of words in large text corpora."
+    },
+    {
+        "question": "What is stemming?",
+        "answer": "Stemming is the process of reducing words to their root or base form by removing suffixes."
+    },
+    {
+        "question": "What is a Natural Language Generation (NLG)?",
+        "answer": "Natural Language Generation (NLG) is a subtopic of natural language processing in artificial intelligence that generates natural language from a machine representation."
+    },
+    {
+        "question": "What is few-shot learning in NLP?",
+        "answer": "Few-shot learning is a technique that allows a model to learn new tasks with only a few examples."
+    },
+    {
+        "question": "What is tokenization in NLP?",
+        "answer": "Tokenization is the process of breaking down a text into smaller units called tokens, which can be words, phrases, or symbols."
+    },
+    {
+        "question": "What is text generation?",
+        "answer": "Text generation is the process of automatically creating human-like text."
+    },
+    {
+        "question": "What is word sense disambiguation?",
+        "answer": "Word sense disambiguation is the process of identifying the correct meaning of a word in a given context."
+    },
+    {
+        "question": "What is few-shot learning in NLP?",
+        "answer": "Few-shot learning is a technique that allows a model to learn new tasks with only a few examples."
+    },
+    {
+        "question": "What is regular expression in NLP?",
+        "answer": "Regular expressions are sequences of characters that define a search pattern, used for string matching."
+    },
+    {
+        "question": "What is n-gram?",
+        "answer": "An n-gram is a contiguous sequence of n items from a given sequence of text or speech."
+    },
+    {
+        "question": "What is text classification?",
+        "answer": "Text classification is the task of assigning predefined categories to text documents."
+    },
+    {
+        "question": "What is machine translation?",
+        "answer": "Machine translation is the task of automatically translating text from one language to another."
+    },
+    {
+        "question": "What is a corpus in NLP?",
+        "answer": "A corpus is a large and structured set of texts used for linguistic analysis."
+    },
+    {
+        "question": "What is word sense disambiguation?",
+        "answer": "Word sense disambiguation is the process of identifying the correct meaning of a word in a given context."
+    },
+    {
+        "question": "What is text generation?",
+        "answer": "Text generation is the process of automatically creating human-like text."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is a parse tree?",
+        "answer": "A parse tree is a tree representation of the syntactic structure of a sentence."
+    },
+    {
+        "question": "What is a paraphrase?",
+        "answer": "A paraphrase is a restatement of a text or passage in other words, often to simplify or clarify."
+    },
+    {
+        "question": "What is question answering in NLP?",
+        "answer": "Question answering is the task of automatically answering questions posed in natural language."
+    },
+    {
+        "question": "What is a Natural Language Generation (NLG)?",
+        "answer": "Natural Language Generation (NLG) is a subtopic of natural language processing in artificial intelligence that generates natural language from a machine representation."
+    },
+    {
+        "question": "What is a discourse analysis?",
+        "answer": "Discourse analysis is the study of language beyond the sentence level, focusing on how language is used in social contexts."
+    },
+    {
+        "question": "What is lemmatization?",
+        "answer": "Lemmatization is similar to stemming, but it reduces words to their base dictionary form (lemma), considering the word's meaning and context."
+    },
+    {
+        "question": "What is a Natural Language Understanding (NLU)?",
+        "answer": "Natural Language Understanding (NLU) is a subtopic of natural language processing in artificial intelligence that deals with machine reading comprehension."
+    },
+    {
+        "question": "What is few-shot learning in NLP?",
+        "answer": "Few-shot learning is a technique that allows a model to learn new tasks with only a few examples."
+    },
+    {
+        "question": "What is machine translation?",
+        "answer": "Machine translation is the task of automatically translating text from one language to another."
+    },
+    {
+        "question": "What is GPT?",
+        "answer": "GPT (Generative Pre-trained Transformer) is a transformer-based model known for its text generation capabilities."
+    },
+    {
+        "question": "What is a semantic role labeling?",
+        "answer": "Semantic role labeling is the process of assigning semantic roles (e.g., agent, patient, instrument) to words in a sentence."
+    },
+    {
+        "question": "What is BERT?",
+        "answer": "BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model that has achieved state-of-the-art results in various NLP tasks."
+    },
+    {
+        "question": "What is a corpus in NLP?",
+        "answer": "A corpus is a large and structured set of texts used for linguistic analysis."
+    },
+    {
+        "question": "What is coreference resolution?",
+        "answer": "Coreference resolution is the task of identifying all expressions that refer to the same entity in a text."
+    },
+    {
+        "question": "What is a Natural Language Understanding (NLU)?",
+        "answer": "Natural Language Understanding (NLU) is a subtopic of natural language processing in artificial intelligence that deals with machine reading comprehension."
+    },
+    {
+        "question": "What is word sense disambiguation?",
+        "answer": "Word sense disambiguation is the process of identifying the correct meaning of a word in a given context."
+    },
+    {
+        "question": "What is a vocabulary in NLP?",
+        "answer": "A vocabulary is the set of unique words in a corpus."
+    },
+    {
+        "question": "What is a language model?",
+        "answer": "A language model is a statistical model that predicts the probability of a sequence of words."
+    },
+    {
+        "question": "What is BERT?",
+        "answer": "BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model that has achieved state-of-the-art results in various NLP tasks."
+    },
+    {
+        "question": "What is transfer learning in NLP?",
+        "answer": "Transfer learning is a technique where a model trained on one task is reused as a starting point for another task."
+    },
+    {
+        "question": "What are word embeddings?",
+        "answer": "Word embeddings are vector representations of words that capture their semantic relationships."
+    },
+    {
+        "question": "What is a language model?",
+        "answer": "A language model is a statistical model that predicts the probability of a sequence of words."
+    },
+    {
+        "question": "What is lemmatization?",
+        "answer": "Lemmatization is similar to stemming, but it reduces words to their base dictionary form (lemma), considering the word's meaning and context."
+    },
+    {
+        "question": "What is few-shot learning in NLP?",
+        "answer": "Few-shot learning is a technique that allows a model to learn new tasks with only a few examples."
+    },
+    {
+        "question": "What is transfer learning in NLP?",
+        "answer": "Transfer learning is a technique where a model trained on one task is reused as a starting point for another task."
+    },
+    {
+        "question": "What is regular expression in NLP?",
+        "answer": "Regular expressions are sequences of characters that define a search pattern, used for string matching."
+    },
+    {
+        "question": "What is a transformer model?",
+        "answer": "A transformer model is a neural network architecture that relies on self-attention mechanisms, widely used in NLP tasks."
+    },
+    {
+        "question": "What is a vocabulary in NLP?",
+        "answer": "A vocabulary is the set of unique words in a corpus."
+    },
+    {
+        "question": "What is ROUGE score?",
+        "answer": "ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is a set of metrics used for evaluating automatic summarization and machine translation."
+    },
+    {
+        "question": "What is topic modeling?",
+        "answer": "Topic modeling is a statistical modeling technique for discovering the abstract 'topics' that occur in a collection of documents."
+    },
+    {
+        "question": "What is lemmatization?",
+        "answer": "Lemmatization is similar to stemming, but it reduces words to their base dictionary form (lemma), considering the word's meaning and context."
+    },
+    {
+        "question": "What is BLEU score?",
+        "answer": "BLEU (Bilingual Evaluation Understudy) is an algorithm for evaluating the quality of machine-translated text."
+    },
+    {
+        "question": "What is text summarization?",
+        "answer": "Text summarization is the process of creating a concise and accurate summary of a longer text."
+    },
+    {
+        "question": "What is a Natural Language Understanding (NLU)?",
+        "answer": "Natural Language Understanding (NLU) is a subtopic of natural language processing in artificial intelligence that deals with machine reading comprehension."
+    },
+    {
+        "question": "What is a knowledge graph?",
+        "answer": "A knowledge graph is a graph-structured database that represents entities and their relationships."
+    },
+    {
+        "question": "What is transfer learning in NLP?",
+        "answer": "Transfer learning is a technique where a model trained on one task is reused as a starting point for another task."
+    },
+    {
+        "question": "What is a knowledge graph?",
+        "answer": "A knowledge graph is a graph-structured database that represents entities and their relationships."
+    },
+    {
+        "question": "What is coreference resolution?",
+        "answer": "Coreference resolution is the task of identifying all expressions that refer to the same entity in a text."
+    },
+    {
+        "question": "What are word embeddings?",
+        "answer": "Word embeddings are vector representations of words that capture their semantic relationships."
+    },
+    {
+        "question": "What is a dialogue system?",
+        "answer": "A dialogue system is a computer system that engages in conversation with humans."
+    },
+    {
+        "question": "What is a knowledge base?",
+        "answer": "A knowledge base is a technology used to store complex structured and unstructured information used by a computer system."
+    },
+    {
+        "question": "What is machine translation?",
+        "answer": "Machine translation is the task of automatically translating text from one language to another."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is tokenization in NLP?",
+        "answer": "Tokenization is the process of breaking down a text into smaller units called tokens, which can be words, phrases, or symbols."
+    },
+    {
+        "question": "What is a corpus in NLP?",
+        "answer": "A corpus is a large and structured set of texts used for linguistic analysis."
+    },
+    {
+        "question": "What is regular expression in NLP?",
+        "answer": "Regular expressions are sequences of characters that define a search pattern, used for string matching."
+    },
+    {
+        "question": "What is named entity recognition (NER)?",
+        "answer": "NER is the task of identifying and classifying named entities (e.g., people, organizations, locations) in a text."
+    },
+    {
+        "question": "What is a knowledge graph?",
+        "answer": "A knowledge graph is a graph-structured database that represents entities and their relationships."
+    },
+    {
+        "question": "What is Natural Language Processing (NLP)?",
+        "answer": "NLP is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is regular expression in NLP?",
+        "answer": "Regular expressions are sequences of characters that define a search pattern, used for string matching."
+    },
+    {
+        "question": "What is a context window?",
+        "answer": "A context window is the range of words surrounding a target word that is considered when processing that word."
+    },
+    {
+        "question": "What is a vector space model?",
+        "answer": "A vector space model is an algebraic model for representing text documents as vectors of identifiers."
+    },
+    {
+        "question": "What is BLEU score?",
+        "answer": "BLEU (Bilingual Evaluation Understudy) is an algorithm for evaluating the quality of machine-translated text."
+    },
+    {
+        "question": "What is dependency parsing?",
+        "answer": "Dependency parsing is the task of analyzing the grammatical dependencies between words in a sentence."
+    },
+    {
+        "question": "What is a context window?",
+        "answer": "A context window is the range of words surrounding a target word that is considered when processing that word."
+    },
+    {
+        "question": "What is TF-IDF?",
+        "answer": "TF-IDF (Term Frequency-Inverse Document Frequency) is a statistical measure used to evaluate the importance of a word in a document relative to a collection of documents."
+    },
+    {
+        "question": "What is word sense disambiguation?",
+        "answer": "Word sense disambiguation is the process of identifying the correct meaning of a word in a given context."
+    },
+    {
+        "question": "What is a chatbot?",
+        "answer": "A chatbot is a computer program designed to simulate conversation with human users, especially over the internet."
+    },
+    {
+        "question": "What is ROUGE score?",
+        "answer": "ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is a set of metrics used for evaluating automatic summarization and machine translation."
+    },
+    {
+        "question": "What is a transformer model?",
+        "answer": "A transformer model is a neural network architecture that relies on self-attention mechanisms, widely used in NLP tasks."
+    },
+    {
+        "question": "What is a language model?",
+        "answer": "A language model is a statistical model that predicts the probability of a sequence of words."
+    },
+    {
+        "question": "What is a morphological analysis?",
+        "answer": "Morphological analysis is the study of word structure, including how words are formed from morphemes."
+    },
+    {
+        "question": "What is a context window?",
+        "answer": "A context window is the range of words surrounding a target word that is considered when processing that word."
+    },
+    {
+        "question": "What is part-of-speech (POS) tagging?",
+        "answer": "POS tagging is the process of assigning grammatical tags (e.g., noun, verb, adjective) to each word in a text."
+    }
+]
